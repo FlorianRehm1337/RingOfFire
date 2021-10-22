@@ -58,6 +58,14 @@
   position: absolute;
   right: 32px;
   bottom: 32px;
+  z-index: 2;
+}
+
+.pin-bottom{
+  position: absolute;
+  bottom: 32px;
+  left: 100px;
+  right: 100px;
 }
 
 @keyframes pick-card-animation {
